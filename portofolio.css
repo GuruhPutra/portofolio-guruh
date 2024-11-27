@@ -1,0 +1,32 @@
+.gradient {
+background-color: #03122f;
+  }
+  .gradient3{
+    background-image: linear-gradient(#03122f, #19305c);
+  }
+  .gradient2 {
+background-color: #413b61;
+  }
+  .gradient1 {
+  background-image: linear-gradient(#19305c, #03122f );
+  }
+  .gradient-buttom {
+    background-color: #19305c;
+  }
+  .gradient-skill1
+{
+background-color: #413b61;
+}
+  .gradient-skill
+{
+background-color: #413b61;
+}
+.gradient-navbar {
+background-color: #03122f;
+}
+.footer{
+  background-color: #19305c;
+}
+a {
+  text-decoration: none;
+}
